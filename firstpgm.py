@@ -1,0 +1,2 @@
+m="gm"
+print(m)
